@@ -1,0 +1,18 @@
+
+Topics Prepared:-
+------------------
+* Exploratory Testing
+* Use Case Testing
+* Unit Testing
+* Verification and validation
+* SDLC AND STLC
+* Traceabilty Matrix
+* Equivalance testing
+* White and Black Box Testing
+* Static and Dynamic Testing
+* Integration and System Testing
+* UAT AND RETESTING
+* Test Scenario, Test Cases , Test Scripts and Test Deliverables, Test Plan.
+* Waterfall Model, Spiral Model, V-Model and Prototype Model.
+* Error, Bug, Defect and Failure
+
